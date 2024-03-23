@@ -1,4 +1,3 @@
-````markdown
 # Bangladeshi Car License Plate Detection
 
 ## Project Description
@@ -14,7 +13,6 @@ To install and run the project, follow these steps:
    ```bash
    git clone https://github.com/arfin-arif/bangladeshi-car-licence-plate-detection.git
    ```
-````
 
 2. **Install Dependencies:**
 
@@ -47,7 +45,7 @@ To install and run the project, follow these steps:
 6. **Evaluate Model Performance:**
 
 Here is the result of the evaluation on the test set.
-![result](https://github.com/arfin-arif/bangladeshi-car-licence-plate-detection/blob/main/runs/detect/train/results.png? raw=true)
+![result](https://github.com/arfin-arif/bangladeshi-car-licence-plate-detection/blob/main/runs/detect/train/results.png?raw=true)
 
 7. **References:**
 
